@@ -19,6 +19,12 @@ copyright:
    name: TelcoSec
    link: 'https://2g-gsm.telco-sec.com/'
 
+
+# CDN Images
+
+cdn:
+  domain: https://cdn.telco-sec.com/
+
 # Build settings
 permalink: /:title/
 paginate: 6
