@@ -1,2 +1,0 @@
-# VMS - Voice Mail Subsystem
-

@@ -1,2 +1,0 @@
-# AuC - Authentication Center
-

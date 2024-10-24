@@ -1,2 +1,0 @@
-# OSS - Operation Support Subsystem
-

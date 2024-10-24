@@ -1,2 +1,0 @@
-# NMC - Network Managment Center
-

@@ -1,2 +1,0 @@
-# EIR - Equipment Identity Register
-
