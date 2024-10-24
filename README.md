@@ -25,6 +25,8 @@ layout:
 
 GSM (Global System for Mobile Communications) is a standard developed to describe protocols for second-generation (2G) digital cellular networks used by mobile phones.
 
+<figure><img src=".gitbook/assets/RFS.jpg" alt=""><figcaption></figcaption></figure>
+
 It became the default global standard for mobile communications, ensuring interoperability of mobile devices across different regions.&#x20;
 
 {% @mailchimp/mailchimpSubscribe %}
